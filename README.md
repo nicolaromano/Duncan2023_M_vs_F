@@ -1,1 +1,1 @@
-# Duncan2023_M_vs_F
+This repository contains the code for the analysis of RNA-sequencing data from Duncan et al. - Sexual dimorphism in pituitary corticotroph excitability, comparing the transcriptome of corticotrophs from male and female mice.
